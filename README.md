@@ -1,5 +1,7 @@
 # Rust vs Python Module Benchmark
 
+Though easy to use, Python is notoriously slow. On the other hand, Python allows you to create modules in C. You can avoid manual pointer manipulation by using Rust. This enables you to create Python-based solutions while building performance-sensitive modules in Rust.
+
 ## Setup
 
     make setup
